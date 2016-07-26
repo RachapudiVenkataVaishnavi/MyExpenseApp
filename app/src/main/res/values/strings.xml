@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyExpenseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_fragment_">Login</string>
+    <string name="login_fragment_create">create new account</string>
+    <string name="signup_fragment_signup">Sign Up</string>
+    <string name="signup_fragment_cancel">Cancel</string>
+
+    <string name="login_button_login">Login</string>
+    <string name="login_button_create">Create new account</string>
+    <string name="signup_button_signup">sign up</string>
+    <string name="signup_button_cancel">Cancel</string>
+
+    <string name="addExpense">Add An Expense</string>
+    <string name="expenseName">Expense Name</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="expenseDetails">Expense Details</string>
+    <string name="eventDetails">Event Details</string>
+    <string name="name">Name</string>
+    <string-array name="spinner_options">
+        <item name="section1">Select Category</item>
+        <item name="section2">Groceries</item>
+        <item name="section3">Invoice</item>
+        <item name="section4">Transportation</item>
+        <item name="section5">Shopping</item>
+        <item name="section6">Rent</item>
+        <item name="section7">Trips</item>
+        <item name="section8">Utilities</item>
+        <item name="section9">Other</item>
+
+    </string-array>
+</resources>
